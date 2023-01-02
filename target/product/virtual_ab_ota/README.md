@@ -1,16 +1,3 @@
-# Virtual A/B makefiles
-
-Devices that uses Virtual A/B must inherit from one of the makefiles in this directory.
-
-## Structure
-
-```
-launch.mk
-  |- retrofit.mk
-  |- plus_non_ab.mk
-
-launch_with_vendor_ramdisk.mk
-  |- compression.mk
-
-compression_retrofit.mk
-```
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ae2a3aeff049b00d68f0859d54d54ed7c0ac8374d1b580a28400625c3c4c177
+size 259

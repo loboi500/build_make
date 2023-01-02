@@ -1,8 +1,3 @@
-third_party {
-  # would be NOTICE save for GPL in:
-  #   core/LINUX_KERNEL_COPYING
-  #   tools/droiddoc/templates-pdk/assets/jquery-1.6.2.min.js
-  #   tools/droiddoc/templates-pdk/assets/jquery-history.js
-  #   tools/droiddoc/templates-pdk/assets/jquery-resizable.min.js
-  license_type: RESTRICTED
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0db73b0583669b214529c401af72ae3e1158afed9720048a33b03854408766a
+size 300

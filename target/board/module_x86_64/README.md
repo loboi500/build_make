@@ -1,3 +1,3 @@
-This device is suitable for an unbundled module targeted specifically to an
-x86_64 device. 32 bit binaries built with this product will not be suitable for
-a 32-bit x86 device.
+version https://git-lfs.github.com/spec/v1
+oid sha256:475ff68a489bdbb56eb72ced26f16a82f25e8c662147e88d9a4b7a741b9698a1
+size 177
